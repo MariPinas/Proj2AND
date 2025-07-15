@@ -1,1 +1,1 @@
-### Como Rodar: Via Google Colab, clicando em "open with google colab" no arquivo.
+### Como Rodar: Via Google Colab, clicando em "open in colab" no arquivo.
